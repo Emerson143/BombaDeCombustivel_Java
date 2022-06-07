@@ -10,13 +10,17 @@ public class Bomba {
 		PrecoGasolina = 2.90;
 	}
 
-	public void setPrecoEtanol(double precoEtanol) {
-		PrecoEtanol = precoEtanol;
+	public double getPrecoEtanol() {
+		return PrecoEtanol;
 	}
 
-	public void setPrecoGasolina(double precoGasolina) {
-		PrecoGasolina = precoGasolina;
+	public double getPrecoGasolina() {
+		return PrecoGasolina;
 	}
+
+	
+	
+	
 	
 
 }
