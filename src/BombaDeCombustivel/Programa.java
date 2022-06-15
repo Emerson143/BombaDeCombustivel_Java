@@ -49,10 +49,19 @@ public class Programa {
 				funcoes.AbastecerVeiculosFila();
 				//laco = false;
 				break;
+			case "2" :
+				funcoes.IncluirVeiculo();
+				break;
+			case "3":
+				funcoes.DeletarVeiculo();
+				break;
+			case "4":
+				funcoes.AtualizarLista();
+				break;
 			case "5" : 
 				funcoes.ResumoGeraldasBombas();
 				//laco = false;
-			break;	
+				break;	
 			default:
 				System.out.println("");
 				System.out.println("Opção invalida por favor digite novamente...");
