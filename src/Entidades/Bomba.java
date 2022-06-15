@@ -6,8 +6,8 @@ public class Bomba {
 	private double PrecoGasolina;
 	
 	public Bomba() {
-		PrecoEtanol = 2.27;
-		PrecoGasolina = 2.90;
+		PrecoEtanol = 4.28;
+		PrecoGasolina = 5.90;
 	}
 
 	public double getPrecoEtanol() {
