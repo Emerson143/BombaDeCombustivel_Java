@@ -24,4 +24,4 @@ Esse projeto eu conseguir me desenvolver bastante, usando bastante lógica de pr
 
 ### Video do projeto.
 
-[](..%5C..%5CSUBIR.mp4)
+[](../../SUBIR.mp4)
